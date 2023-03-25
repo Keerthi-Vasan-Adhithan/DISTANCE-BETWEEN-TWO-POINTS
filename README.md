@@ -15,11 +15,6 @@ Print the values
 End the program
 ### PROGRAM:
  ```
- #Program to find the distance between two points.
-#Developed by: KEERTHI VASAN A
-#RegisterNumber: 212222240048
-
-
 import math
 p=[4,2]
 q=[10,6]
