@@ -8,7 +8,8 @@ Import math
 ### Step 2: 
 assign the values of two points
 ### Step 3: 
-Substitute the values in the distance formula  ![formula](/formula.jpg)
+Substitute the values in the distance formula ![WhatsApp Image 2023-04-05 at 11 50 03](https://user-images.githubusercontent.com/107488929/229997421-62a55d4b-d8b7-40e2-944f-1fc0f6de96a9.jpg)
+
 ### Step 4: 
 Print the values
 ### Step 5: 
